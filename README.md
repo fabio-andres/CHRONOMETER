@@ -4,7 +4,7 @@ Interactive stopwatch
 
 ## Preview
 
-![](./Captura de pantalla 2022-08-11 233325.png)
+![](https://github.com/fabio-andres/stopwatch/blob/main/Captura%20de%20pantalla%202022-08-11%20233325.png?raw=true)
 
 ## Getting Started 🚀
 
